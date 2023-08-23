@@ -15,7 +15,7 @@
         $prodi = "Teknologi Informasi";
     ?>
     <div id="gambar">
-        <center><img src="gambar.png" alt="gambar.jpg" width="200" height="200"></center>
+        <center><img src="image.png" alt="gambar.jpg" width="200" height="200" class="rounded-circle"></center>
     </div>
     <div class="container">
                 <p class="welcome">Welcome.</p>
